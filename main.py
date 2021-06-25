@@ -12,7 +12,6 @@ m = int(min)
 
 
 phone = "+330789548628"
-dfa = "7BIoD8QyCZI6KJDp2rqPem"
 text = "bonsoir"
 
 send.sendwhatmsg(phone,text,h,m+1)
